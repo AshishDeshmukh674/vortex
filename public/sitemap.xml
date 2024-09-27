@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Static pages -->
+  <url>
+    <loc>https://drbhatpune.com/</loc>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://drbhatpune.com/my-booking</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Dynamic pages: /search/[cname] -->
+  <url>
+    <loc>https://drbhatpune.com/search/Physician</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://drbhatpune.com/search/Gynecologist</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://drbhatpune.com/search/Nutritionist</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://drbhatpune.com/search/Physiotherapist</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Dynamic pages: /details/[recordId] -->
+  <url>
+    <loc>https://drbhatpune.com/details/3</loc>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://drbhatpune.com/details/4</loc>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://drbhatpune.com/details/5</loc>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://drbhatpune.com/details/7</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Dynamic pages: /api/auth/[kindeAuth] -->
+  <url>
+    <loc>https://drbhatpune.com/api/auth/login</loc>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://drbhatpune.com/api/auth/register</loc>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
